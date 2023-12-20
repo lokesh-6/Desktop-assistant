@@ -1,0 +1,8 @@
+Prompt: program to print hello world
+Response: program to print hello world to stdout.
+
+#include <stdio.h> int main(int argc, char *argv[]) { printf("Hello World!
+
+
+"); return 0; }
+

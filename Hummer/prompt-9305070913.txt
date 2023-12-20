@@ -1,0 +1,4 @@
+Prompt: hello hello hello
+Response: hello hello hello
+
+You can also use the following command to get a list of all the files in the current directory. You can do this by using the command ls -l. If you want to see all of your files, you can use this command: ls /path/to/your/file.txt. This will show you all files that are in your directory, and you will be able to view them in a more detailed way. For example, if you have a file named
